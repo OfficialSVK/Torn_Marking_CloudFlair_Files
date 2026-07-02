@@ -1,0 +1,6 @@
+{
+  "name": "torn-war-claimer-worker",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  }
+}
